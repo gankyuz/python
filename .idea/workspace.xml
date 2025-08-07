@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="648b2c4b-f586-4d83-9d1b-875ecb6ed6e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/EXERCICIOS_BEECROWND.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aprendendo_python/cadastro_contatos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aprendendo_python/dicionarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aprendendo_python/funcoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aprendendo_python/if_elif_else/exercicio2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aprendendo_python/if_elif_else/exercicio2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aprendendo_python/if_elif_else/exercicio2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aprendendo_python/if_elif_else/exercicio2.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aprendendo_python/if_elif_else/exercicio2.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aprendendo_python/if_elif_else/exercicio2.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aprendendo_python/if_elif_else/exercicio2.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aprendendo_python/if_elif_else/exercicio2.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aprendendo_python/if_elif_else/exercicio2.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aprendendo_python/inventario_de_itens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aprendendo_python/tuplas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio+1013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_1001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_1002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_1003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_1004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_1005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_1006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_1007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_1008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_1009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_1010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_1011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_1012.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2wkAHYyZSODfFSHsqdhiPm3rtTW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.cadastro_contatos.executor": "Run",
+    "Python.dicionarios.executor": "Run",
+    "Python.exercicio+1013.executor": "Run",
+    "Python.exercicio2.2.executor": "Run",
+    "Python.exercicio2.3.executor": "Run",
+    "Python.exercicio2.4.executor": "Run",
+    "Python.exercicio2.5.executor": "Run",
+    "Python.exercicio2.6.executor": "Run",
+    "Python.exercicio2.7.executor": "Run",
+    "Python.exercicio2.8.executor": "Run",
+    "Python.exercicio2.9.executor": "Run",
+    "Python.exercicio_1001.executor": "Run",
+    "Python.exercicio_1002.executor": "Run",
+    "Python.exercicio_1003.executor": "Run",
+    "Python.exercicio_1004.executor": "Run",
+    "Python.exercicio_1005.executor": "Run",
+    "Python.exercicio_1006.executor": "Run",
+    "Python.exercicio_1007.executor": "Run",
+    "Python.exercicio_1008.executor": "Run",
+    "Python.exercicio_1009.executor": "Run",
+    "Python.exercicio_1010.executor": "Run",
+    "Python.exercicio_1011.executor": "Run",
+    "Python.exercicio_1012.executor": "Run",
+    "Python.funcoes (1).executor": "Run",
+    "Python.funcoes.executor": "Run",
+    "Python.if_elif_else.executor": "Run",
+    "Python.inventario_de_itens.executor": "Run",
+    "Python.teste.executor": "Run",
+    "Python.tuplas.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\PycharmProjects\EXERCICIOS_BEECROWND\aprendendo_python\if_elif_else" />
+      <recent name="C:\Users\gabri\PycharmProjects\EXERCICIOS_BEECROWND\aprendendo_python" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.funcoes (1)">
+    <configuration name="cadastro_contatos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EXERCICIOS_BEECROWND" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aprendendo_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aprendendo_python/cadastro_contatos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercicio2.9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EXERCICIOS_BEECROWND" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aprendendo_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\gabri\PycharmProjects\EXERCICIOS_BEECROWND\aprendendo_python\if_elif_else\exercicio2.9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="funcoes (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EXERCICIOS_BEECROWND" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aprendendo_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aprendendo_python/funcoes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="funcoes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EXERCICIOS_BEECROWND" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aprendendo_python/if_elif_else" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\gabri\PycharmProjects\EXERCICIOS_BEECROWND\aprendendo_python\funcoes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inventario_de_itens" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EXERCICIOS_BEECROWND" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aprendendo_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aprendendo_python/inventario_de_itens.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.funcoes (1)" />
+        <item itemvalue="Python.funcoes" />
+        <item itemvalue="Python.inventario_de_itens" />
+        <item itemvalue="Python.cadastro_contatos" />
+        <item itemvalue="Python.exercicio2.9" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="648b2c4b-f586-4d83-9d1b-875ecb6ed6e8" name="Changes" comment="" />
+      <created>1746575111071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746575111071</updated>
+      <workItem from="1746575112091" duration="2299000" />
+      <workItem from="1746580866930" duration="5632000" />
+      <workItem from="1746654893234" duration="4989000" />
+      <workItem from="1746829080769" duration="10069000" />
+      <workItem from="1746916903449" duration="670000" />
+      <workItem from="1746917589098" duration="5330000" />
+      <workItem from="1747493833425" duration="5368000" />
+      <workItem from="1754510124511" duration="2593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio2_2.coverage" NAME="exercicio2.2 Coverage Results" MODIFIED="1746655812528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aprendendo_python/if_elif_else" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio2_5.coverage" NAME="exercicio2.5 Coverage Results" MODIFIED="1746659501233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aprendendo_python/if_elif_else" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$cadastro_contatos.coverage" NAME="cadastro_contatos Coverage Results" MODIFIED="1747495472129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aprendendo_python" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$tuplas.coverage" NAME="tuplas Coverage Results" MODIFIED="1746839217787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aprendendo_python" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio2_8.coverage" NAME="exercicio2.8 Coverage Results" MODIFIED="1746831780400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aprendendo_python/if_elif_else" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio_1013.coverage" NAME="exercicio+1013 Coverage Results" MODIFIED="1746586496679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$dicionarios.coverage" NAME="dicionarios Coverage Results" MODIFIED="1746839001785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aprendendo_python" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio_1005.coverage" NAME="exercicio_1005 Coverage Results" MODIFIED="1746576614951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio_1010.coverage" NAME="exercicio_1010 Coverage Results" MODIFIED="1746585186714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio_1001.coverage" NAME="exercicio_1001 Coverage Results" MODIFIED="1746575448839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio_1008.coverage" NAME="exercicio_1008 Coverage Results" MODIFIED="1746577280700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$if_elif_else.coverage" NAME="if_elif_else Coverage Results" MODIFIED="1746655428308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aprendendo_python" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio_1012.coverage" NAME="exercicio_1012 Coverage Results" MODIFIED="1746586065467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio2_6.coverage" NAME="exercicio2.6 Coverage Results" MODIFIED="1746840278005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aprendendo_python/if_elif_else" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$funcoes__1_.coverage" NAME="funcoes (1) Coverage Results" MODIFIED="1754512447208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aprendendo_python" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio2_3.coverage" NAME="exercicio2.3 Coverage Results" MODIFIED="1746656322870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aprendendo_python/if_elif_else" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio_1003.coverage" NAME="exercicio_1003 Coverage Results" MODIFIED="1746575946561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio_1006.coverage" NAME="exercicio_1006 Coverage Results" MODIFIED="1746576788671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$teste.coverage" NAME="teste Coverage Results" MODIFIED="1746659207784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aprendendo_python/if_elif_else" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio_1009.coverage" NAME="exercicio_1009 Coverage Results" MODIFIED="1746581149952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$inventario_de_itens.coverage" NAME="inventario_de_itens Coverage Results" MODIFIED="1754510778536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aprendendo_python" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio2_9.coverage" NAME="exercicio2.9 Coverage Results" MODIFIED="1746917231268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aprendendo_python" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$funcoes.coverage" NAME="funcoes Coverage Results" MODIFIED="1754512358371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aprendendo_python/if_elif_else" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio_1011.coverage" NAME="exercicio_1011 Coverage Results" MODIFIED="1746585462196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio_1004.coverage" NAME="exercicio_1004 Coverage Results" MODIFIED="1746576086647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio2_4.coverage" NAME="exercicio2.4 Coverage Results" MODIFIED="1746658509493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aprendendo_python/if_elif_else" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio_1002.coverage" NAME="exercicio_1002 Coverage Results" MODIFIED="1746575786547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio_1007.coverage" NAME="exercicio_1007 Coverage Results" MODIFIED="1746576956284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EXERCICIOS_BEECROWND$exercicio2_7.coverage" NAME="exercicio2.7 Coverage Results" MODIFIED="1746830900369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aprendendo_python/if_elif_else" />
+  </component>
+</project>
